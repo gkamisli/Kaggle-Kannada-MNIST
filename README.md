@@ -17,8 +17,8 @@ Also, you can find details - evaluation, requirements, and leaderboard about the
 5) Defining keras Callbacks
 6) Image augmentation
 7) Training network
-8) Predictions on Dig data set and test data set
+8) Predictions on Dig and test data set
 
 ## CNN Architecture
-![Network Architecture](CNN_architecture.png)
+![Network Architecture](CNN_architecture_.png)
 

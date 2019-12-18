@@ -20,5 +20,5 @@ Also, you can find details - evaluation, requirements, and leaderboard about the
 8) Predictions on Dig and test data sets
 
 ## CNN Architecture
-
+![Network Architecture](CNN_architecture.png)
 
